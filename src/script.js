@@ -14,10 +14,10 @@ const stations=[
 f:88.7,
 html:`
 <div class="songCard">
-<img class="cover" src="src/pict.PNG">
+<img class="cover" src="src/pict.JPG">
 <div class="songInfo">
-<div>Mystery of Love</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Sufjan Stevens</div>
+<div>Pink + White</div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">Frank Ocean</div>
 
 <div class="player">
 <div class="topRow">
