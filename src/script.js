@@ -14,7 +14,7 @@ const stations=[
 f:88.7,
 html:`
 <div class="songCard">
-<img class="cover" src="src/pict.jpg">
+<img class="cover" src="src/pict.PNG">
 <div class="songInfo">
 <div>Mystery of Love</div>
 <div style="font-size:12px;opacity:.7;margin-bottom:10px">Sufjan Stevens</div>
@@ -45,19 +45,19 @@ html:`
 <div style="position:absolute;top:5px;width:100%;overflow:hidden;">
 <div class="filmTrack">
 
-<img src="src/1.jpg" class="filmPic">
-<img src="src/2.jpg" class="filmPic">
-<img src="src/3.jpg" class="filmPic">
-<img src="src/4.jpg" class="filmPic">
-<img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/1.PNG" class="filmPic">
+<img src="src/2.PNG" class="filmPic">
+<img src="src/3.PNG" class="filmPic">
+<img src="src/4.PNG" class="filmPic">
+<img src="src/5.PNG" class="filmPic">
+<img src="src/6.PNG" class="filmPic">
 
-<img src="src/1.jpg" class="filmPic">
-<img src="src/2.jpg" class="filmPic">
-<img src="src/3.jpg" class="filmPic">
-<img src="src/4.jpg" class="filmPic">
-<img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/1.PNG" class="filmPic">
+<img src="src/2.PNG" class="filmPic">
+<img src="src/3.PNG" class="filmPic">
+<img src="src/4.PNG" class="filmPic">
+<img src="src/5.PNG" class="filmPic">
+<img src="src/6.PNG" class="filmPic">
 
 </div>
 </div>
@@ -109,16 +109,16 @@ html:`
 
 <span class="signal">TRANSMISSION START</span><br><br>
 
-TRANSMISSION START
+Happy Mensiversary, Sayang. 
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Sometimes I wonder if you notice how softly you exist inside my universe.
-Sometimes I wonder if you notice how softly you exist inside my universe.
+Feels amazing how you’ve become part of my daily rhythm. Telling you about my day feels automatic now. Sending you random thoughts. Updating you about the smallest things. It’s like my life naturally makes space for you without me even trying. And honestly, I really like that.
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Not loud. Not chaotic.
+Being your partner has also made me more aware of myself. I’ve learned how to communicate better. How to be more patient. How to say what I feel instead of expecting you to guess. I don’t think we talk enough about that part, how relationships can actually help you grow instead of shrink.
 
-But like late night radio waves that stay playing even when the world sleeps.
+And maybe that’s what I’m most thankful for. With you, I don’t feel smaller. I don’t feel like I have to tone myself down. I feel supported, understood, and sometimes even challenged in a good way.
 
-END SIGNAL
+So this mensiversary, I’m not just celebrating “us” as a couple. I’m celebrating the version of me that exists because we met. And I hope you feel the same, that being with me adds something good to your life too. Let’s keep building something healthy, something calm, something that lasts.
+
 <span class="signal">END SIGNAL</span>
 
 </div>
